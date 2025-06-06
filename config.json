@@ -2,8 +2,8 @@
     "firstrun": "true",
     "prefix": "!",
     "main": {
-        "token": "MTI2OTg3NzE4NTkyNjM5ODAzMA.Gy7YEj.Tu6CIwoncNix6897S4h9JwG1whur1KHAf2ToLk",
-        "userid": "1269877185926398030",
+        "token": "",
+        "userid": "",
         "commandschannelid": "1375772892729577473",
         "huntbotchannelid": "1375772965177659502",
         "owodmchannelid": "1375779102140923987",
@@ -114,7 +114,7 @@
             "autosolve_thread": 5,
             "alerttype": {
                 "webhook": true,
-                "webhookurl": "https://discord.com/api/webhooks/1345425154901020812/tWLUPnsL9zRj-kXpHBdHhZVaZ3Sd5_5xFxdvxSPW5XM-VyZaO1O-z9Vx5tGk0RNk5lzD",
+                "webhookurl": "",
                 "desktop": {
                     "force": true,
                     "notification": true,
